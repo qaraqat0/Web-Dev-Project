@@ -11,8 +11,8 @@ This project is an online platform for purchasing tickets and booking seats for 
 
 ## Key Features
 
-Buying tickets – the ability to select an event, ticket categories and make a purchase with the receipt of an electronic ticket (QR code, PDF, SMS).
+- Buying tickets – the ability to select an event, ticket categories and make a purchase with the receipt of an electronic ticket (QR code, PDF, SMS).
 
-Booking seats – an interactive map of the hall with a choice of seats, various price categories and logic for preventing single empty seats.
+- Booking seats – an interactive map of the hall with a choice of seats, various price categories and logic for preventing single empty seats.
 
-Event catalog – filtering events by category, date, price and location, as well as the ability to subscribe to organizers.
+- Event catalog – filtering events by category, date, price and location, as well as the ability to subscribe to organizers.
