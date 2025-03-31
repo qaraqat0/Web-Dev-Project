@@ -7,8 +7,7 @@ EndTerm Project 2025 spring
 ## About project
 ![image](https://github.com/user-attachments/assets/2f81f51a-5956-4059-895e-31ec9f828266)
 
-
-
+-
 
 This project is an online platform for purchasing tickets and booking seats for various events, such as concerts, theater performances, sporting events, and movie screenings. Users can select events, view interactive seating plans, and pay for tickets online.
 
