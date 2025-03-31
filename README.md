@@ -4,5 +4,7 @@ EndTerm Project 2025 spring
 - Imangali Karakat
 - Rakhatkyzy Talshyn
 - Yesenkyzy Dilnaz
-![file](https://github.com/user-attachments/assets/0f0d9820-ce3e-449d-87cd-336d564ba3c5)
+# Project Eventicks
+A platform for purchasing tickets and booking seats at various events.
 
+[aksasm.pdf](https://github.com/user-attachments/files/19533130/aksasm.pdf)
