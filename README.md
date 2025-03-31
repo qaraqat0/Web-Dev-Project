@@ -1,6 +1,6 @@
 # Web-Dev-Project
 EndTerm Project 2025 spring
-## Group members:
+## Group members
 - Imangali Karakat
 - Rakhatkyzy Talshyn
 - Yesenkyzy Dilnaz
